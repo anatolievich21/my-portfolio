@@ -312,6 +312,7 @@ html, body {
     box-shadow: var(--box-shadow);
     border-radius: 10px;
     transition: transform 0.3s ease;
+
 }
 
 .project:hover {
